@@ -24,7 +24,7 @@ Create one here: https://map-making.app/keys
 Make sure not to share this key with anybody or show it publically as it will allow anybody to edit your maps.
 
 Replace `PASTE_YOUR_KEY_HERE` with your generated API key (make sure not to delete the quotes surrounding the key) */
-const MAP_MAKING_API_KEY = "a12898ca-8140-4828-a5a2-afbcf7e67a7a";
+const MAP_MAKING_API_KEY = "PASTE_YOUR_KEY_HERE";
 
 /* ############################################################################### */
 /* ##### DON'T MODIFY ANYTHING BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ##### */
